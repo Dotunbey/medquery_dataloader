@@ -1,0 +1,7 @@
+sqlmodel
+psycopg2-binary
+python-dotenv
+pandas
+biopython
+sentence-transformers
+pgvector
